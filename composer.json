@@ -1,0 +1,13 @@
+{
+    "name": "jochen/mailstuff",
+    "authors": [
+        {
+            "name": "jochen",
+            "email": "jochen.janssens@tactics.be"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "symfony/var-dumper": "^2.7"
+    }
+}
